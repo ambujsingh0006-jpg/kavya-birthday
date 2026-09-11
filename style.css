@@ -6,11 +6,7 @@
 }
 
 body {
-    background:
-        radial-gradient(circle at 20% 20%, rgba(120, 40, 150, 0.25), transparent 30%),
-        radial-gradient(circle at 80% 30%, rgba(220, 30, 90, 0.18), transparent 30%),
-        linear-gradient(135deg, #09060f, #160b22, #0b0b14);
-
+   background: linear-gradient(135deg, #ff9a9e, #fad0c4, #fbc2eb, #a18cd1);
     min-height: 100vh;
     overflow-x: hidden;
     color: #fff;
