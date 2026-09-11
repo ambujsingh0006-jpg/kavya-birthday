@@ -347,3 +347,26 @@ button:hover {
         overflow-x: hidden;
     }
 }
+body {
+    color: #000;
+}
+
+.hero h1,
+.hero p,
+.card h2,
+.card p,
+.letter h2,
+.letter p,
+.cake-section h3 {
+    color: #000;
+    text-shadow: none;
+}
+
+button {
+    color: #000;
+}
+
+.loading-screen h1 {
+    color: #000;
+    text-shadow: none;
+}
